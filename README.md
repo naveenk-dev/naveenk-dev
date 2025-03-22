@@ -1,14 +1,12 @@
-## Hi there 👋
-
-# 💻 Java Developer | Backend Enthusiast
+# 💻 Java Developer | Backend Enthusiast  
 
 ## 👨‍💻 About Me  
-🚀 Passionate Java Developer with experience in building backend applications using:  
+🚀 Passionate Java Developer with experience in backend technologies:  
 - **Core Java**  
 - **JDBC**  
 - **Servlets & JSP**  
 - **Oracle SQL**  
-- 📚 Currently learning **Spring Framework** to enhance backend development skills.  
+- 📚 Currently learning **Spring Framework**  
 
 ## 🔧 Technologies & Tools  
 - **Languages:** Java, SQL  
@@ -17,6 +15,7 @@
 - **Version Control:** Git & GitHub  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://media.licdn.com/dms/image/v2/D4E35AQHLwqzY_W0jVg/profile-framedphoto-shrink_200_200/B4EZW727KIGwAY-/0/1742613492700?e=1743224400&v=beta&t=V6yAUUhdNwPHBaRZzQOHMDiI7vxWFjV4GlkkGIytYYk)](www.linkedin.com/in/naveen-kumar-pamidi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/naveen-kumar-pamidi)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/naveenk-dev)  
 
-💡 **"Code, Test, Improve & Repeat!"** 🚀  
+💡 **"Code, Test, Improve & Repeat!"** 🚀
