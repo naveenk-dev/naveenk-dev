@@ -107,7 +107,7 @@ Automation framework for Login, Agent Creation and CSV Upload workflows.
 
 
 <p align="center">
-<a href="mailto:naveenkumar.dev2000@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/></a><a href="https://www.linkedin.com/in/naveen-kumar-pamidi"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://my-qa-portfolio-mu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"></a><a href="https://your-resume-link"><img src="https://img.shields.io/badge/Resume-PDF-F97316?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+<a href="mailto:naveenkumar.dev2000@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/></a><a href="https://www.linkedin.com/in/naveen-kumar-pamidi"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://my-qa-portfolio-mu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"></a><a href="https://github.com/naveenk-dev/my-qa-portfolio/raw/main/Resume/Pamidi_Naveen_Kumar_QA_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-F97316?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
 </p>
 
 
