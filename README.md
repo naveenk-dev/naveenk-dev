@@ -12,7 +12,7 @@ Passionate about building reliable automation frameworks, improving software qua
 
 ---
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1500&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+QA+Engineer;Automation+Testing;Selenium+WebDriver;Java+%7C+TestNG+%7C+Maven;Manual+Testing+%7C+API+Testing" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1500&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+QA+Engineer;Automation+Testing;Selenium+WebDriver;Core+Java;TestNG;Maven;Manual+Testing;API+Testing;Postman;Jira" />
 </p>
 
 
