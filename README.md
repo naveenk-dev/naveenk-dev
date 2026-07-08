@@ -1,126 +1,128 @@
-# 👋 Hi, I'm Naveen Kumar Pamidi
+<h1 align="center">
+Hi 👋, I'm <span style="color:#3B82F6;">Naveen Kumar Pamidi</span>
+</h1>
 
-## 🚀 Software QA Engineer | Automation Testing | SDET Aspirant
+<h3 align="center">
+Software QA Engineer • Automation Testing • Java • Selenium • TestNG
+</h3>
 
-Passionate Software Testing enthusiast with hands-on experience in **Manual Testing** and **Automation Testing**. I enjoy designing test cases, automating web applications using Selenium, and continuously improving software quality through effective testing practices.
+<p align="center">
+Passionate about building reliable automation frameworks, improving software quality, and continuously learning modern testing technologies.
+</p>
 
 ---
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1500&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+QA+Engineer;Automation+Testing;Selenium+WebDriver;Java+%7C+TestNG+%7C+Maven;Manual+Testing+%7C+API+Testing" />
+</p>
+
 
 ## 👨‍💻 About Me
 
-* Aspiring Software QA Automation Engineer
-* Hands-on experience in Manual Testing and Selenium Automation
-* Passionate about building reliable and maintainable automation frameworks
-* Strong interest in Software Quality Assurance and Test Automation
-* Continuously learning modern testing tools and best practices
+```yaml
+Name: Naveen Kumar Pamidi
 
----
+Location: Hyderabad, India
 
-## 🛠️ Technical Skills
+Role: Software QA Engineer
 
-### Manual Testing
+Focus:
+  - Manual Testing
+  - Selenium Automation
+  - Java
+  - TestNG
+  - API Testing
 
-* SDLC
-* STLC
-* Agile Methodology
-* Test Case Design
-* Functional Testing
-* Regression Testing
-* Smoke Testing
-* Defect Life Cycle
+Current Goal:
+  Secure a Software QA / Automation Testing role and grow into an SDET.
+```
 
-### Automation Testing
 
-* Selenium WebDriver
-* Core Java
-* TestNG
-* Maven
-* Page Object Model (POM)
+## 🛠️ Tech Stack
 
-### API Testing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,mysql,eclipse" />
+</p>
 
-* Postman (Manual API Testing)
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,maven,postman,jira" />
+</p>
 
-### Database
+<p align="center">
+  <img src="https://img.shields.io/badge/TestNG-EA4C1D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/POM-Page%20Object%20Model-3B82F6?style=for-the-badge" />
+</p>
 
-* Oracle SQL
-* MySQL (DDL, DML, DQL Basics)
 
-### Version Control
+## 🚀 Featured Projects
 
-* Git
-* GitHub
+### 🔹 OrangeHRM QA Automation
 
-### Defect Tracking
+End-to-end Manual & Automation Testing project developed using Selenium WebDriver.
 
-* Jira
+**Highlights**
 
-### IDE & Tools
-
-* Eclipse IDE
-
----
-
-## 📂 Featured Projects
-
-### 🔹 Calley Teams Web Application Automation Testing
-
-* End-to-end automation using Selenium WebDriver
-* Java, TestNG, Maven, Page Object Model (POM)
-* Automated Login, Agent Creation, and CSV Bulk Upload workflows
-* Functional Testing, Regression Testing, UI Validation
-* External Test Data Management
-* Git & GitHub for version control
-
----
-
-### 🔹 OrangeHRM Application Testing
-
-* Manual Testing Documentation
-* Test Scenarios & Test Cases
-* Defect Reporting
-* Selenium Automation
-* Java, TestNG, Maven
-* Page Object Model (POM)
-* Login, Admin & PIM Module Automation
+- Manual Testing Documentation
+- Test Cases
+- Bug Reports
+- Selenium WebDriver
+- Java
+- TestNG
+- Maven
+- Page Object Model (POM)
 
 🔗 Repository:
 https://github.com/naveenk-dev/OrangeHRM-QA-Project
 
 ---
 
-## 🌱 Currently Learning
+### 🔹 Calley Teams Automation
 
-* Advanced Selenium Framework Development
-* API Testing
-* Software Testing Best Practices
-* Git & GitHub Workflows
+Automation framework for Login, Agent Creation and CSV Upload workflows.
 
----
+**Highlights**
 
-## 🎯 Career Objective
+- Selenium WebDriver
+- Java
+- TestNG
+- Maven
+- Page Object Model
+- Functional Testing
+- Regression Testing
 
-Seeking an entry-level Software QA / Automation Testing role where I can contribute to software quality while continuously expanding my knowledge in test automation and software testing.
-
----
 
 ## 📜 Certifications
 
-* Software Testing (Manual Testing, Selenium, Jira, TestNG) – Q Edge Technologies
-* Core Java Programming – Naresh i Technologies
+🏆 Software Testing — QEdge Technologies
 
----
+🏆 Core Java Programming — Naresh i Technologies
 
-## 📫 Connect with Me
 
-📧 **Email:** [naveenkumar.dev2000@gmail.com](mailto:naveenkumar.dev2000@gmail.com)
+## 🌱 Currently Learning
 
-💼 **LinkedIn:**
-https://www.linkedin.com/in/naveen-kumar-pamidi
+- REST API Testing
+- REST Assured
+- Advanced Selenium Frameworks
+- PlayWright
 
-💻 **GitHub:**
-https://github.com/naveenk-dev
 
----
+<p align="center">
+<a href="mailto:naveenkumar.dev2000@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/></a><a href="https://www.linkedin.com/in/naveen-kumar-pamidi"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://your-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"></a><a href="https://your-resume-link"><img src="https://img.shields.io/badge/Resume-PDF-F97316?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+</p>
 
-> **"Quality is not an act, it is a habit."**
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-stats-extended-backend7.vercel.app/api?username=naveenk-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenk-dev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-stats-extended-backend7.vercel.app/api/top-langs?username=naveenk-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
